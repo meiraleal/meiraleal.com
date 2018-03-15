@@ -38,7 +38,7 @@
             "company": "Advantage Media Inc.",
             "position": "Frontend Engineer",
             "startDate": "2016-11-01",
-            "startDate": "2017-07-01",
+            "endDate": "2017-07-01",
             "summary": "Responsável pelo frontend de um projeto de integração com o Google Adwords & DoubleClick. Comunicação 100% em inglês com os outros membros da equipe (dinamarqueses).",
             "highlights": ["React","MongoDB", "Angular 2/4", "Node.JS", "Google APIs"]
         },
