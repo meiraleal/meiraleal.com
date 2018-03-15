@@ -81,12 +81,12 @@ module.exports = function(grunt) {
         'clean',
         'copy:build',
         'less',
-        'exec:build_index' //,
+        'exec:build_index',
         /* Uncomment this item (and the comma above) if you add a favicon.ico
            in the project root. You'll also need to uncomment the <link...> tag
            at the top of resume.template.
          */
-        //'copy:favicon'
+        'copy:favicon'
     ]);
     grunt.registerTask('serve', [
         'build',
