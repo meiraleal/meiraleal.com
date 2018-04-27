@@ -23,6 +23,7 @@
   "homepage": "https://github.com/mudassir0909/jsonresume-theme-elegant",
   "dependencies": {
     "gravatar": "^1.0.6",
+    "gulp": "^3.9.1",
     "handlebars": "^4.0.11",
     "jade": "^1.11.0",
     "jsonresume-themeutils": "^1.3.2",
