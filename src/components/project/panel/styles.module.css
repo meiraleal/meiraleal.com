@@ -31,18 +31,13 @@
     padding-right: 0;
 }
 
-.mrRed {
-    composes: mrRed from "../themes.module.css";
+.alipioDigital {
+    composes: alipioDigital from "../themes.module.css";
 }
 
-.alipioDigital .inner {
-    background-position-x: 15%;
-    background-size: auto 50%;
-}
-
-.alipioDigital .inner {
+.meSenger .inner {
     background-position-x: 80%;
-    background-size: auto 50%;
+    background-size: auto 90%;
 }
 
 .via6 .inner {
@@ -50,9 +45,9 @@
     background-size: auto 50%;
 }
 
-.meSenger .inner {
+.alipioDigital .inner {
     background-position-x: 20%;
-    background-size: auto 90%;
+    background-size: auto 50%;
 }
 
 .engarte .inner {

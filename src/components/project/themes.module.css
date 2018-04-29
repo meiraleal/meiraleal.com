@@ -11,9 +11,9 @@
 }
 
 /* Improve readability. */
-.mrRed h1,
-.mrRed h2,
-.mrRed h3,
-.mrRed p {
+.alipioDigital h1,
+.alipioDigital h2,
+.alipioDigital h3,
+.alipioDigital p {
   text-shadow: 0px 0px 5px #359bed;
 }
