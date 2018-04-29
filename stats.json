@@ -1,0 +1,122 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-work-index-jsx": [
+      "component---src-pages-work-index-jsx-5cdebe2f996ae79f99a6.js",
+      "component---src-pages-work-index-jsx-5cdebe2f996ae79f99a6.js.map"
+    ],
+    "component---src-pages-work-text-corner-index-jsx": [
+      "component---src-pages-work-text-corner-index-jsx-da5cdd0df3989f59d566.js",
+      "component---src-pages-work-text-corner-index-jsx-da5cdd0df3989f59d566.js.map"
+    ],
+    "path---work": [
+      "path---work-a0e39f21c11f6a62c5ab.js",
+      "path---work-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-25d02ac0d80d510f83fb.js",
+      "component---src-layouts-index-jsx-25d02ac0d80d510f83fb.js.map"
+    ],
+    "component---src-pages-contact-index-jsx": [
+      "component---src-pages-contact-index-jsx-9153a8e3f853fe0bdb92.js",
+      "component---src-pages-contact-index-jsx-9153a8e3f853fe0bdb92.js.map"
+    ],
+    "component---src-pages-work-alipio-digital-index-jsx": [
+      "component---src-pages-work-alipio-digital-index-jsx-3a45d3be2e95b591ccfa.js",
+      "component---src-pages-work-alipio-digital-index-jsx-3a45d3be2e95b591ccfa.js.map"
+    ],
+    "component---src-pages-work-via-6-index-jsx": [
+      "component---src-pages-work-via-6-index-jsx-be31ca0d4b7ba970d36b.js",
+      "component---src-pages-work-via-6-index-jsx-be31ca0d4b7ba970d36b.js.map"
+    ],
+    "component---src-pages-about-index-jsx": [
+      "component---src-pages-about-index-jsx-bad9ec641abeb922b03e.js",
+      "component---src-pages-about-index-jsx-bad9ec641abeb922b03e.js.map"
+    ],
+    "path---work-adnexio": [
+      "path---work-adnexio-a0e39f21c11f6a62c5ab.js",
+      "path---work-adnexio-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---work-alipio-digital": [
+      "path---work-alipio-digital-a0e39f21c11f6a62c5ab.js",
+      "path---work-alipio-digital-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "commons": [
+      "commons-e4530dc16bef32a68f3a.js",
+      "build-js-styles.css",
+      "commons-e4530dc16bef32a68f3a.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-work-porto-seguro-index-jsx": [
+      "component---src-pages-work-porto-seguro-index-jsx-188dc01b429d7081c90a.js",
+      "component---src-pages-work-porto-seguro-index-jsx-188dc01b429d7081c90a.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-jsx": [
+      "component---src-pages-404-jsx-736d65975acbcb9081be.js",
+      "component---src-pages-404-jsx-736d65975acbcb9081be.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---work-engarte": [
+      "path---work-engarte-a0e39f21c11f6a62c5ab.js",
+      "path---work-engarte-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-c56f693a898fbab3883a.js",
+      "component---src-pages-index-jsx-c56f693a898fbab3883a.js.map"
+    ],
+    "app": [
+      "app-e8070d76a49128dbf224.js",
+      "app-e8070d76a49128dbf224.js.map"
+    ],
+    "path---work-porto-seguro": [
+      "path---work-porto-seguro-a0e39f21c11f6a62c5ab.js",
+      "path---work-porto-seguro-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---work-me-senger": [
+      "path---work-me-senger-a0e39f21c11f6a62c5ab.js",
+      "path---work-me-senger-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-work-me-senger-index-jsx": [
+      "component---src-pages-work-me-senger-index-jsx-42e8bd9c9c6d2a139126.js",
+      "component---src-pages-work-me-senger-index-jsx-42e8bd9c9c6d2a139126.js.map"
+    ],
+    "path---work-text-corner": [
+      "path---work-text-corner-a0e39f21c11f6a62c5ab.js",
+      "path---work-text-corner-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-work-engarte-index-jsx": [
+      "component---src-pages-work-engarte-index-jsx-c27c71048454acf74d02.js",
+      "component---src-pages-work-engarte-index-jsx-c27c71048454acf74d02.js.map"
+    ],
+    "component---src-pages-work-adnexio-index-jsx": [
+      "component---src-pages-work-adnexio-index-jsx-5b29815d626a8f879648.js",
+      "component---src-pages-work-adnexio-index-jsx-5b29815d626a8f879648.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---work-via-6": [
+      "path---work-via-6-a0e39f21c11f6a62c5ab.js",
+      "path---work-via-6-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
