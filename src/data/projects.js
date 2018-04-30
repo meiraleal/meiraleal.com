@@ -48,7 +48,7 @@ const projects = [
         description: 'Web platform to allow ad managers monitor and control their campaigns, ads and budget.',
         clientDescription: 'Adnexio is the solution used internally by Advantage Media Group, a Danish marketing agency focused in retargeting. The product integrated Google DoubleClick, Google Adwords and other services to function as a DSP. The platform was developed using C#, Angular 2/4, RxJS and typescript. I was responsible for the Frontend and part of the devOps. The infrastructure used was Amazon AWS integrated with Github. The communication was done mainly through Skype, Slack and Github Projects',
         links: {
-            website: 'https://adnexio.com',
+            website: 'https://web.archive.org/web/20170818115716/http://www.advantagemedia.dk',
         },
         slug: 'adnexio',
         title: 'Adnexio',
@@ -75,7 +75,7 @@ const projects = [
     {
         className: 'textCorner',
         description: 'Functional MVP of a marketplace for content writers. With it, the company got accepted to the now famous Startup Chile.',
-        clientDescription: 'Technologies used: Ruby on Rails, Bootstrap. Backend: Heroku',
+        clientDescription: 'Functional MVP of a marketplace for content writers. With it, the company got accepted to the now famous Startup Chile. Technologies used: Ruby on Rails, Bootstrap. Backend: Heroku.',
         links: {
             website: 'https://web.archive.org/web/20130501054159/http://www.textcorner.com.br:80/',
         },
