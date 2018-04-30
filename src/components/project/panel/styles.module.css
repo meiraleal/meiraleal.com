@@ -50,9 +50,14 @@
     background-size: auto 50%;
 }
 
+.moipLabs .inner {
+    background-position-x: 20%;
+    background-size: auto 50%;
+}
+
 .engarte .inner {
     background-position-x: 78.5%;
-    background-position-y: bottom;
+    background-size: auto 50%;
 }
 
 .textCorner .inner {
